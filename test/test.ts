@@ -1,3 +1,3 @@
-import { length } from '../dist';
+import { number } from '../dist';
 
-console.log(length(12000).from('mm').toBest());
+console.log(number(12).from('O').toBest());

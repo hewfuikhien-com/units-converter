@@ -516,3 +516,15 @@ voltage().list();
 
 </p>
 </details>
+
+<details><summary>Number</summary>
+<p>
+
+- da
+- K
+- M
+- B
+- T
+
+</p>
+</details>
