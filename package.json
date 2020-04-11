@@ -1,0 +1,38 @@
+{
+  "name": "@hewfuikhien.com/units-converter",
+  "version": "1.0.0-rc.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "units-converter"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "clean": "rimraf dist"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "license": "MIT",
+  "author": "Hew <hello@hewfuikhien.com>",
+  "bugs": {
+    "url": "https://github.com/hewfuikhien-com/units-converter/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "description": "A simple library to convert units. Heavily based on [units-converter](https://github.com/nosferatoy/units-converter).",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hewfuikhien-com/units-converter.git"
+  },
+  "homepage": "https://github.com/hewfuikhien-com/units-converter#readme"
+}
