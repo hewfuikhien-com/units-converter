@@ -1,5 +1,9 @@
 ﻿# Units Converter
 
+![node](https://img.shields.io/node/v/@hewfuikhien.com/units-converter)
+![download](https://img.shields.io/npm/dm/@hewfuikhien.com/units-converter)
+![size](https://img.shields.io/github/languages/code-size/hewfuikhien-com/units-converter)
+
 A simple library to convert units. Heavily based on [units-converter](https://github.com/nosferatoy/units-converter).
 
 ### Key Features
