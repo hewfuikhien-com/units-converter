@@ -1,6 +1,6 @@
 {
   "name": "@hewfuikhien.com/units-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -24,7 +24,7 @@
     "url": "https://github.com/hewfuikhien-com/units-converter/issues"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=10.0.0"
   },
   "description": "A simple library to convert units. Heavily based on [units-converter](https://github.com/nosferatoy/units-converter).",
   "directories": {
