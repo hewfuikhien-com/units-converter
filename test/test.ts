@@ -1,3 +1,3 @@
-import { number } from '../dist';
+import { irradiation } from '../dist';
 
-console.log(number(12).from('O').toBest());
+console.log(irradiation(123).from('Wh/m²').toBest());

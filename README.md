@@ -532,3 +532,28 @@ voltage().list();
 
 </p>
 </details>
+
+
+<details><summary>Irradiance</summary>
+<p>
+
+- W/m²
+- mW/m²
+- kW/m²
+- MW/m²
+
+</p>
+</details>
+
+
+<details><summary>Irradiantion</summary>
+<p>
+
+- Wh/m²
+- mWh/m²
+- kWh/m²
+- MWh/m²
+- GWh/m²
+
+</p>
+</details>

@@ -25,3 +25,5 @@ export { default as voltage } from './src/definitions/voltage.js';
 export { default as volume } from './src/definitions/volume.js';
 export { default as volumeFlowRate } from './src/definitions/volumeFlowRate';
 export { default as number } from './src/definitions/number';
+export { default as irradiance } from './src/definitions/irradiance';
+export { default as irradiation } from './src/definitions/irradiation';
