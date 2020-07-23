@@ -16,7 +16,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.7"
   },
   "license": "MIT",
   "author": "Hew <hello@hewfuikhien.com>",
