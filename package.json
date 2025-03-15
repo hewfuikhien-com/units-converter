@@ -1,6 +1,6 @@
 {
-  "name": "@hewfuikhien.com/units-converter",
-  "version": "1.0.5",
+  "name": "@hewfuikhien-com/units-converter",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -34,5 +34,8 @@
     "type": "git",
     "url": "git+https://github.com/hewfuikhien-com/units-converter.git"
   },
-  "homepage": "https://github.com/hewfuikhien-com/units-converter#readme"
+  "homepage": "https://github.com/hewfuikhien-com/units-converter#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
